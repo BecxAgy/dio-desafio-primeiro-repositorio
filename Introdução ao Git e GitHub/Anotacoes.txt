@@ -1,0 +1,21 @@
+COMANDOS UTILIZADOS!!
+
+git init: Inicia um repositório git vazio em seu computador.
+git clone: Faz uma cópia de um repositório remoto para seu computador.
+git add: Adiciona arquivos ou mudanças específicas para o próximo commit.
+git commit: Salva as mudanças adicionadas com uma mensagem de commit.
+git status: Mostra o estado atual do repositório, incluindo arquivos modificados, arquivos adicionados, etc.
+git push: Envia os commits locais para o repositório remoto.
+git pull: Atualiza o repositório local com as mudanças do repositório remoto.
+git branch: Lista, cria ou exclui branches.
+git checkout: Troca de branch ou de commits específicos.
+git merge: Combina dois ou mais branches.
+git log: Mostra o histórico de commits.
+git diff: Mostra as diferenças entre dois commits ou branches.
+git remote: Lista ou adiciona repositórios remotos.
+git fetch: Baixa o conteúdo de um repositório remoto para seu computador.
+git stash: Salva mudanças em andamento em uma área temporária.
+git revert: Desfaz um commit específico.
+git reset: Desfaz mudanças ou retorna para um commit anterior.
+git tag: Marca um commit específico como uma versão ou release.
+git config: Configura o git em seu computador, como nome e email do usuário.
